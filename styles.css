@@ -1,0 +1,124 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  font-family: sans-serif;
+}
+#banner
+{
+  background-image: url(Images/background.jpg);
+
+}
+/** Service section */
+#Services
+{
+padding: 80px 0;
+}
+.service-img
+{
+  height: 100px;
+  width: 100px;
+  margin-top: 20px;
+}
+.services
+{
+  padding: 20px;
+}
+.services h4
+{
+  padding: 5px;
+  margin-top: 25px;
+  text-transform: uppercase;
+}
+
+
+/*------testimonials-----*/
+#testimonials
+{
+  margin: 100px 0;
+
+ }
+.testimonials
+{
+  border-left:40px solid #7b1798;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+.tetimonials img
+{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+.user-details
+{
+  display: inline-block;
+  font-size:12px; 
+}
+/*---SOCIAL MEDIA----*/
+#social-media
+{
+  background: #f8f9fa;
+  padding: 100px 0;
+}
+#social-media p
+{
+  font-size:36px;
+  font-weight:600;
+  margin-bottom: 30px;
+}
+#Footer{
+    
+    padding:10px;
+    border-top: 1px solid black;
+    color:#eeeeee;
+    background-color: #211f22;
+    text-align: center;   
+}
+.blogpost{
+	background-color:#9CC6EE;
+	padding-left: 10px;
+	padding-right: 10px;
+   padding-top: 10px;
+	overflow: hidden;
+}
+#heading{
+    font-family: Bitter,Georgia,"Times New Roman",Times,serif;
+    font-weight: bold;
+     color: #005E90;
+}
+#heading:hover{
+  color: #0090DB;
+}
+.description{
+    color: #868686;
+    font-weight:bold;
+    margin-top:-2px;
+}
+
+.post{
+     font-size: 1.1em;
+      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+      text-align: justify;
+}
+.btn-info{
+    float: right;
+}
+.imageicon {
+  max-width: 150px;
+  margin: 0 auto;
+  display: block;
+}
+.background{
+    background-color:#F6F7F9;
+}
+
+
+
+
+
+
+
+
